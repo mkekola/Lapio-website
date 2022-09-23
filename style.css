@@ -1,3 +1,17 @@
+h1 {
+    color: blue;
+}
+
+h2,
+h3,
 p {
-    background-color: red;
+    color: brown;
+}
+
+ul {
+    color: violet;
+}
+
+.punainen {
+    color: red;
 }
